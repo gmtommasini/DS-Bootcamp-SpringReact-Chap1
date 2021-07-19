@@ -1,0 +1,9 @@
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Maria Remedios', '3214325423', 3500.00, '2000-07-13', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Robert Bacias', '321654987', 13500.00, '1987-01-11', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Mara Maravilha', '951847623', 6000.00, '1999-11-01', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Xuxa Meneguel', '12345678912', 1200.00, '2001-01-02', 0);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Fausto Silva', '98745214651', 4400.00, '2002-04-25', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Bruce Wayne', '8125784651', 25000.00, '1955-02-26', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Bob Mark', '1658162135', 750.00, '2003-12-30', 0);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Lu Chen', '16846813513', 8300.00, '1988-02-28', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Ayumi Hamasaki', '48976513518', 12000.00, '1991-03-02', 3);
